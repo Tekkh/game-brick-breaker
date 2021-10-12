@@ -1,1 +1,1 @@
-# game-brick-breaker
+# Simple Brick Breaker
